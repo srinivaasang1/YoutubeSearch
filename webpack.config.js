@@ -4,7 +4,7 @@ module.exports = {
   ],
   output: {
     path: __dirname  + '/build',
-    publicPath: '/',
+    publicPath: 'YoutubeSearch/',
     filename: 'bundle.js'
   },
   module: {
